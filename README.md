@@ -31,9 +31,7 @@ All three variable-selection procedures retained **healthy life expectancy** and
 
 The final fitted model was:
 
-\[
-\widehat{\text{Ladder Score}} = 1.476 + 4.278(\text{Healthy Life Expectancy}) + 2.943(\text{Freedom})
-\]
+Ladder Score = 1.476 + 4.278(Healthy Life Expectancy) + 2.943(Freedom)
 
 - Both retained predictors had statistically significant positive associations with the happiness score (**p < 0.0001**).
 - The reduced model had **R² = 0.7147** and **adjusted R² = 0.7105**, explaining approximately 71.5% of the observed variation in country-level happiness scores.
