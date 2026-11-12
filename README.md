@@ -46,10 +46,8 @@ The predictor variables are calculated contributions used in the World Happiness
 ```text
 world-happiness-regression/
 ├── README.md
-├── code/
-│   └── happiness_regression.sas
-└── report/
-    └── project_report.pdf
+├── happiness_regression.sas
+└── project_report.pdf
 ```
 
 ## How to run
